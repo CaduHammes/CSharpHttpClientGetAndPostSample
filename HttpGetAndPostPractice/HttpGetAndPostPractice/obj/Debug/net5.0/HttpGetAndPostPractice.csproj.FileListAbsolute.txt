@@ -1,0 +1,17 @@
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\bin\Debug\net5.0\HttpGetAndPostPractice.exe
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\bin\Debug\net5.0\HttpGetAndPostPractice.deps.json
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\bin\Debug\net5.0\HttpGetAndPostPractice.runtimeconfig.json
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\bin\Debug\net5.0\HttpGetAndPostPractice.runtimeconfig.dev.json
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\bin\Debug\net5.0\HttpGetAndPostPractice.dll
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\bin\Debug\net5.0\ref\HttpGetAndPostPractice.dll
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\bin\Debug\net5.0\HttpGetAndPostPractice.pdb
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\HttpGetAndPostPractice.csproj.AssemblyReference.cache
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\HttpGetAndPostPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\HttpGetAndPostPractice.AssemblyInfoInputs.cache
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\HttpGetAndPostPractice.AssemblyInfo.cs
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\HttpGetAndPostPractice.csproj.CoreCompileInputs.cache
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\HttpGetAndPostPractice.dll
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\ref\HttpGetAndPostPractice.dll
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\HttpGetAndPostPractice.pdb
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\obj\Debug\net5.0\HttpGetAndPostPractice.genruntimeconfig.cache
+C:\Users\duduh\source\repos\HttpGetAndPostPractice\HttpGetAndPostPractice\bin\Debug\net5.0\Newtonsoft.Json.dll
